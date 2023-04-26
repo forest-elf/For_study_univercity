@@ -1,2 +1,2 @@
-# For_study_univercity
+# For_study_university
 for_my_students
